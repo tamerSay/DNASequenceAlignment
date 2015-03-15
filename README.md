@@ -1,5 +1,5 @@
 # DNASequenceAlignment
-DNA Sequence Alignment, Learning mismatches, matches and gaps. It only works on same length two dna sequences.
+DNA Sequence Alignment, Learning mismatches, matches and gaps. It only works on two same length dna sequences.
 
 Java code added. 
 Two screenshots added.
